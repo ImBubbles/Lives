@@ -1,0 +1,14 @@
+# DEFAULTS
+lives: 3
+maxLives: 5
+
+# ITEMS
+lifeBook:
+  name: "&cLife Book"
+  lore:
+    - "&7Use this book to gain a life"
+    - "&7&oCan also be used for revive books"
+reviveBook:
+  name: "&c&lRevive Book"
+  lore:
+    - "&7Use this book to revive a player"
